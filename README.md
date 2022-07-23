@@ -25,4 +25,6 @@
 ## Изображения
 ![alt text for image](2.jpeg)
 
+## Ссылки
 
+[GeekBrains](http://gb.ru/)
